@@ -1,0 +1,6 @@
+.env
+/vendor
+composer.lock
+.idea
+docker
+docker-compose.yml
